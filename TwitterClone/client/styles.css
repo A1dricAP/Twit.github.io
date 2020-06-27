@@ -1,0 +1,23 @@
+body {
+  background-color: lightblue;
+}
+
+.title {
+  text-align: center;
+}
+
+.mew-form,
+.loading {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.loading {
+  text-align: center;
+}
+
+.mews {
+  width: 50%;
+  margin: 0 auto;
+  /* background-color: aqua; */
+}
